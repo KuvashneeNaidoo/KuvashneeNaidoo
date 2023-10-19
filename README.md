@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Kuvashnee 
 
 <div>
-  <img align="right" alt="software-engineer-gif" width="360px" style="padding-left:10px;" src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" />
+  <img align="right" alt="software-engineer-gif" width="320px" style="padding-left:10px;" src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" />
 </div>
 
 <br/>
