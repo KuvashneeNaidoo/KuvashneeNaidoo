@@ -8,7 +8,7 @@
 
 - 👩‍💻 I am a Full Stack Web Developer with an extensive background in JavaScript, MongoDB, Express, React and Node.js. 
 - ✨ I am enthusiastic about bringing new ideas to life by tackling software development challenges to achieve lasting impacts on user experience. 
-- 🤝 I am eager to work along side web designers to expand my learning and build upon my developer skills.
+- 🤝 Let's build something amazing together! Open to collaboration and new opportunities.
 - ✉️ You are welcome to contact me via LinkedIn <a href="https://www.linkedin.com/in/kuvashnee-naidoo-924947222" target="_blank">here.</a>
 
 <br/>
