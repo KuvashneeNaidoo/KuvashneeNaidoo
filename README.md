@@ -6,10 +6,10 @@
 
 <br/>
 
-- 👩‍💻 I am a Full Stack Web Developer with an extensive background in JavaScript, MongoDB, Express, React and Node.js. 
-- ✨ I am enthusiastic about bringing new ideas to life by tackling software development challenges to achieve lasting impacts on user experience. 
-- 🤝 Let's build something amazing together! Open to collaboration and new opportunities.
-- ✉️ You are welcome to contact me via LinkedIn <a href="https://www.linkedin.com/in/kuvashnee-naidoo-924947222" target="_blank">here.</a>
+- 👩‍💻 I’m a Frontend Web Developer with a strong focus on HTML, CSS, JavaScript, React, SCSS, and responsive design. I love transforming design concepts into interactive, user-friendly websites that deliver seamless user experiences.
+- ✨ Interested about frontend technologies, I enjoy solving design and UI challenges, optimizing performance, and ensuring my applications are both beautiful and functional.
+- 🤝 I’m always open to collaborating on innovative projects and learning from others in the frontend community. Let’s create something amazing together!
+- ✉️ Feel free to reach out to me via Linkedin <a href="https://www.linkedin.com/in/kuvashnee-naidoo-924947222" target="_blank">here.</a> – I’d love to connect!
 
 <br/>
 <br/>
