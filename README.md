@@ -6,7 +6,7 @@
 
 <br/>
 
-- 👩‍💻 I’m a Frontend Web Developer with a strong focus on HTML, CSS, JavaScript, React, SCSS, and responsive design. I love transforming design concepts into interactive, user-friendly websites that deliver seamless user experiences.
+- 👩‍💻  I’m an aspiring front-end developer looking for a new role in an exciting company. I focus on writing accessible HTML, using modern CSS practices and writing clean JavaScript. When writing JavaScript code, I mostly use React, but I can adapt to whatever tools are required. 
 - ✨ Interested about frontend technologies, I enjoy solving design and UI challenges, optimizing performance, and ensuring my applications are both beautiful and functional.
 - 🤝 I’m always open to collaborating on innovative projects and learning from others in the frontend community. Let’s create something amazing together!
 - ✉️ Feel free to reach out to me via Linkedin <a href="https://www.linkedin.com/in/kuvashnee-naidoo-924947222" target="_blank">here.</a> – I’d love to connect!
