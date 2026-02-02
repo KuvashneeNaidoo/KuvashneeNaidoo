@@ -6,10 +6,12 @@
 
 <br/>
 
-- 👩‍💻  I’m an aspiring front-end developer looking for a new role in an exciting company. I focus on writing accessible HTML, using modern CSS practices and writing clean JavaScript. When writing JavaScript code, I mostly use React, but I can adapt to whatever tools are required. 
-- ✨ Interested about frontend technologies, I enjoy solving design and UI challenges, optimizing performance, and ensuring my applications are both beautiful and functional.
-- 🤝 I’m always open to collaborating on innovative projects and learning from others in the frontend community. Let’s create something amazing together!
-- ✉️ Feel free to reach out to me via Linkedin <a href="https://www.linkedin.com/in/kuvashnee-naidoo-924947222" target="_blank">here.</a> – I’d love to connect!
+- 👩‍💻 I’m a **Full Stack Web Developer** with professional experience building and maintaining production-level applications. I work across the stack — from clean, accessible UIs to scalable backend services and data pipelines.
+- ⚙️ On the frontend, I build fast, responsive interfaces using **React, Next.js, modern CSS, and Tailwind**. On the backend, I work with **Node.js, MongoDB, REST & GraphQL APIs**, and third-party integrations.
+- 🚀 I enjoy solving real-world problems: improving performance, shipping reliable features, working with data, and turning complex requirements into maintainable systems.
+- 🤝 Always open to collaborating on meaningful projects, sharing knowledge, and learning new tools that make products better.
+- ✉️ Feel free to reach out to me on LinkedIn <a href="https://www.linkedin.com/in/kuvashnee-naidoo-924947222" target="_blank">here</a> — happy to connect!
+
 
 <br/>
 <br/>
