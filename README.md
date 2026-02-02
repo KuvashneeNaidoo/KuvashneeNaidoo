@@ -12,7 +12,6 @@
 - 🤝 Always open to collaborating on meaningful projects, sharing knowledge, and learning new tools that make products better.
 - ✉️ Feel free to reach out to me on LinkedIn <a href="https://www.linkedin.com/in/kuvashnee-naidoo-924947222" target="_blank">here</a> — happy to connect!
 
-
 <br/>
 <br/>
 
